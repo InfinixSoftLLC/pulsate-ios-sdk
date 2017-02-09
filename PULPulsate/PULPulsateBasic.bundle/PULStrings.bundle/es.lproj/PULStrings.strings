@@ -70,46 +70,46 @@
 /* No comment provided by engineer. */
 "This year" = "Este año";
 
-"reply_button_label" = "Reply";
-"new_message_button_label" = "New Message";
-"new_messages_button_label" = "New Messages";
-"new_updates" = "New Updates";
-"no_internet_connection" = "No Internet Connection";
-"no_internet_server_error" = "No Connection. Please try again";
-"view_conversation_button_label" = "View Conversation";
-"select_subject_label"= "Please select a subject";
-"write_a_message_hint"= "Write a message...";
-"give_your_message_a_subject" = "Give your message a subject so\nit's easier to organize.";
-"sent_a_message" = "sent a message";
-"replied_to_your" = "replied to your message";
-"send_button" = "SEND";
+"reply_button_label" = "Responder";
+"new_message_button_label" = "Nuevo mensaje";
+"new_messages_button_label" = "Mensaje nuevos";
+"new_updates" = "Nuevas actualizaciones";
+"no_internet_connection" = "No hay conexión a internet";
+"no_internet_server_error" = "No hay conexión. Por favor intentalo de nuevo";
+"view_conversation_button_label" = "Ver conversación";
+"select_subject_label"= "Por favor, selecciona un asunto";
+"write_a_message_hint"= "Escribir un mensaje...";
+"give_your_message_a_subject" = "Agregar un asunto a tu mensaje para que sea fácil de organizar.";
+"sent_a_message" = "mandar un mensaje";
+"replied_to_your" = "contestó tu mensaje";
+"send_button" = "ENVIAR";
 
-"new_card_label" = "New Card";
-"feed_title_label"= "Feed";
-"new_message_title_label"= "New Message";
+"new_card_label" = "Nueva tarjeta";
+"feed_title_label"= "Actividad";
+"new_message_title_label"= "Nuevo mensaje";
 
-"subject_feedback_label"= "Feedback";
-"subject_feature_suggestion_label"= "Feature Suggestion";
-"subject_complaint_label"= "Complaint";
-"subject_other_label"= "Other...";
+"subject_feedback_label"= "Retroalimentación";
+"subject_feature_suggestion_label"= "Sugerencia de funcionalidades";
+"subject_complaint_label"= "Queja";
+"subject_other_label"= "Otro...";
 
-"feed_is_empty_title"= "Your Feed is Empty";
-"icon_left_text"= "Tap the";
-"icon_right_text"= "icon to start a";
-"icon_bottom_text"= "new conversation with us.";
-"second_paragraph_text"= "You can use this section to \n ask questions or send feedback";
+"feed_is_empty_title"= "Tu lista de actividad está vacía";
+"icon_left_text"= "Toca el";
+"icon_right_text"= "icono para comenzar una";
+"icon_bottom_text"= "nueva conversación con nosotros.";
+"second_paragraph_text"= "Puedes usar esta sección para \n preguntar o mandar una retroalimentación";
 
-"message_sending" = "Message Sending...";
-"message_sent" = "Message Sent";
-"message_failed" = "No Internet Connection";
-"try_again" = "Try Again?";
+"message_sending" = "Enviando mensaje...";
+"message_sent" = "Mensaje enviado";
+"message_failed" = "No hay conexión de internet";
+"try_again" = "¿Intentarlo de nuevo?";
 
 // 2.4.2
 
-"other_subject_hint" = "Please describe your message";
-"reached_bottom_of_feed" = "You have reached the bottom of your feed.";
+"other_subject_hint" = "Por favor, escribe tu mensaje";
+"reached_bottom_of_feed" = "alcanzaste el fin de la lista de Actividad.";
 
 // 2.4.5
 
-"pulsate_YOU_in_message_card" = "You";
+"pulsate_YOU_in_message_card" = "Tú";
 
