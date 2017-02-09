@@ -77,7 +77,7 @@
 "no_internet_connection" = "No hay conexión a internet";
 "no_internet_server_error" = "No hay conexión. Por favor intentalo de nuevo";
 "view_conversation_button_label" = "Ver conversación";
-"select_subject_label"= "Por favor, selecciona un asunto";
+"select_subject_label"= "selecciona un asunto";
 "write_a_message_hint"= "Escribir un mensaje...";
 "give_your_message_a_subject" = "Agregar un asunto a tu mensaje para que sea fácil de organizar.";
 "sent_a_message" = "mandar un mensaje";
@@ -88,8 +88,8 @@
 "feed_title_label"= "Actividad";
 "new_message_title_label"= "Nuevo mensaje";
 
-"subject_feedback_label"= "Retroalimentación";
-"subject_feature_suggestion_label"= "Sugerencia de funcionalidades";
+"subject_feedback_label"= "Sugerencia";
+"subject_feature_suggestion_label"= "Sugerencia para nuevas funcionalidades";
 "subject_complaint_label"= "Queja";
 "subject_other_label"= "Otro...";
 
@@ -97,7 +97,7 @@
 "icon_left_text"= "Toca el";
 "icon_right_text"= "icono para comenzar una";
 "icon_bottom_text"= "nueva conversación con nosotros.";
-"second_paragraph_text"= "Puedes usar esta sección para \n preguntar o mandar una retroalimentación";
+"second_paragraph_text"= "Puedes usar esta sección para \n preguntar o enviar una sugerencia";
 
 "message_sending" = "Enviando mensaje...";
 "message_sent" = "Mensaje enviado";
